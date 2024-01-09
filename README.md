@@ -41,7 +41,7 @@ The application is built using HTML, JavaScript, and CSS. JavaScript handles the
 - `script.js`: Implements the password generation logic.
 
 ~ Deployment:
-The application is deployed via Github Pages and it is accessible at .........
+The application is deployed via Github Pages and it is accessible at https://nickncb96.github.io/colleague-password-gen/
 
 ~ Application Quality
 - Intuitive and easy-to-navigate user experience.
@@ -50,9 +50,12 @@ The application is deployed via Github Pages and it is accessible at .........
 
 
 
-## Review
+~ Review
 Please provide the following for review:
 - The URL of the deployed application:  https://nickncb96.github.io/colleague-password-gen/
 - The URL of the GitHub repository: https://github.com/Nickncb96/colleague-password-gen.git
+
+
+Screenshot path: please see the screenshot image stored i the assets file
 
 Enjoy using the Password Generator!
