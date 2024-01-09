@@ -52,7 +52,7 @@ The application is deployed via Github Pages and it is accessible at .........
 
 ## Review
 Please provide the following for review:
-- The URL of the deployed application: ............................
+- The URL of the deployed application:  https://nickncb96.github.io/colleague-password-gen/
 - The URL of the GitHub repository: https://github.com/Nickncb96/colleague-password-gen.git
 
 Enjoy using the Password Generator!
